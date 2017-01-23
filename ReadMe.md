@@ -1,12 +1,31 @@
 # Advanced Data Structures & Algorithms with Python
 
+## Course Schedule
+
+**Course Dates:** Monday, January 23 – Friday, March 3, 2017 (6 weeks)
+
+**Class Times:** Monday, Wednesday, Friday 1–3pm (17 class sessions)
+
+### Class 1: Monday, January 23 – Exponents & Number Bases
+
+* Topics:
+  - review exponents, logarithms
+  - number bases: decimal, binary, hexadecimal
+  - negative integer representations
+* Challenges:
+  - practice number base conversions on worksheet
+  - implement [base conversion functions](bases.py) for positive numbers
+  - stretch: implement base conversion for negative numbers
+  - stretch: implement base conversion for fractional numbers
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
 Note that you cannot commit or push to the origin repository.
 However, you can _fork_ it to maintain your own version of it and push your code there. Here's an overview of what your repository setup should look like:
 
-![Git Setup](./repository-overview.png "Overview: 3 Repositories")
+![Repository Overview](repository-overview.png "Repository Overview")
 
 Follow these steps to set up your own course repository:
 
