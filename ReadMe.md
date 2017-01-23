@@ -35,7 +35,7 @@ Follow these steps to set up your own course repository:
 2. Fork this repository on GitHub to create your own version of this repo on your GitHub account, which should also be named `Data-Structures`
 
 3. Add your GitHub repository as a _remote_ to the local one on your computer (note: you need to give a name to the remote, e.g. your first name):
-`git remote add <first-name> git@github.com:MakeSchool-18/Data-Structures.git`
+`git remote add <first-name> git@github.com:<github-user>/Data-Structures.git`
 
 4. Link the local repo to your remote GitHub repo:
 `git push -u <first-name> master`
