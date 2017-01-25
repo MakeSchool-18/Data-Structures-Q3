@@ -8,15 +8,29 @@
 
 ### Class 1: Monday, January 23 – Exponents & Number Bases
 
-* Topics:
+**Topics:**
   - review exponents, logarithms
-  - number bases: decimal, binary, hexadecimal
-  - negative integer representations
-* Challenges:
-  - practice number base conversions on worksheet
-  - implement [base conversion functions](bases.py) for positive numbers
+  - [number bases slides](NumberBases.pdf): decimal, binary, hexadecimal
+  - [negative integer representations](https://en.wikipedia.org/wiki/Signed_number_representations): signed magnitude, ones' complement, two's complement
+
+**Challenges:**
+  - practice number base conversions on [worksheet](NumberBasesWorksheet.pdf)
+  - implement base conversion functions for positive numbers using [starter code](bases.py) and [unit tests](test_bases.py)
   - stretch: implement base conversion for negative numbers
   - stretch: implement base conversion for fractional numbers
+
+
+### Class 2: Wednesday, January 25 – Recursion & Search Algorithms
+
+**Topics:**
+  - compare iteration and recursion with factorial function
+  - searching algorithms: linear search and [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+  - review [algorithm complexity analysis](AlgorithmAnalysis.pdf)
+
+**Challenges:**
+  - implement recursive linear and binary search algorithms using [starter code](search.py) and [unit tests](test_search.py)
+  - annotate functions with complexity analysis
+  - stretch: implement [permutation](https://en.wikipedia.org/wiki/Permutation) and [combination](https://en.wikipedia.org/wiki/Combination) functions
 
 
 ## Working with this GitHub repository
