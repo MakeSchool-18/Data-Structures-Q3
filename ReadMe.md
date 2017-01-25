@@ -23,11 +23,12 @@
 ### Class 2: Wednesday, January 25 – Recursion & Search Algorithms
 
 **Topics:**
-  - compare iteration and recursion with factorial function
+  - compare iteration and [recursion](recursion.py) with factorial function
   - searching algorithms: linear search and [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
   - review [algorithm complexity analysis](AlgorithmAnalysis.pdf)
 
 **Challenges:**
+  - implement iterative factorial function using [starter code](recursion.py) and [unit tests](test_recursion.py)
   - implement recursive linear and binary search algorithms using [starter code](search.py) and [unit tests](test_search.py)
   - annotate functions with complexity analysis
   - stretch: implement [permutation](https://en.wikipedia.org/wiki/Permutation) and [combination](https://en.wikipedia.org/wiki/Combination) functions
