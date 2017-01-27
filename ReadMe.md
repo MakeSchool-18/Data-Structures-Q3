@@ -34,6 +34,22 @@
   - stretch: implement [permutation](https://en.wikipedia.org/wiki/Permutation) and [combination](https://en.wikipedia.org/wiki/Combination) functions
 
 
+###  Class 3: Friday, January 27 – String Algorithms
+
+**Topics:**
+  - string searching, [palindromes](https://en.wikipedia.org/wiki/Palindrome), [anagrams](https://en.wikipedia.org/wiki/Anagram)
+
+**Challenges:**
+  - implement string searching function (try multiple approaches)
+  - implement iterative and recursive palindrome checking functions using [starter code](strings.py) and [unit tests](test_strings.py)
+  - annotate functions with complexity analysis
+  - stretch: implement iterative and recursive anagram generating functions
+
+**Project:**
+  - [phone call routing](https://www.dropbox.com/sh/tj6ppp6uwf12cce/AADje96PJhfsIXJEtP1OjwjFa): implement phone number prefix matching
+  - annotate functions with complexity analysis
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
