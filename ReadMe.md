@@ -37,7 +37,7 @@
 ###  Class 3: Friday, January 27 – String Algorithms
 
 **Topics:**
-  - string searching, [palindromes](https://en.wikipedia.org/wiki/Palindrome), [anagrams](https://en.wikipedia.org/wiki/Anagram)
+  - [string searching](https://en.wikipedia.org/wiki/String_searching_algorithm), [palindromes](https://en.wikipedia.org/wiki/Palindrome), [anagrams](https://en.wikipedia.org/wiki/Anagram)
 
 **Challenges:**
   - implement string searching function (try multiple approaches)
@@ -48,6 +48,32 @@
 **Project:**
   - [phone call routing](https://www.dropbox.com/sh/tj6ppp6uwf12cce/AADje96PJhfsIXJEtP1OjwjFa): implement phone number prefix matching
   - annotate functions with complexity analysis
+
+
+### Class 4: Monday, January 30 – List, Stack & Queue
+
+**Topics:**
+- compare [abstract data types][adt] and [concrete data structures][ds]
+- abstract data types: [list], [stack], [queue], [deque] (see [interactive visualizations][visualgo-list])
+- concrete data structures: [array], [dynamic/resizable array (vector)][dynamic], [linked list][linked]
+
+**Challenges:**
+- implement constant-time length function on linked list using [starter code](linkedlist.py) and [unit tests](test_linkedlist.py)
+- implement stack with dynamic array and linked list using [starter code](stack.py) and [unit tests](test_stack.py)
+- implement queue with dynamic array and linked list using [starter code](queue.py) and [unit tests](test_queue.py)
+- annotate functions with complexity analysis
+- stretch: implement deque with doubly linked list
+
+[adt]: https://en.wikipedia.org/wiki/Abstract_data_type
+[ds]: https://en.wikipedia.org/wiki/Data_structure
+[list]: https://en.wikipedia.org/wiki/List_(abstract_data_type)
+[stack]: https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+[queue]: https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+[deque]: (https://en.wikipedia.org/wiki/Double-ended_queue
+[array]: https://en.wikipedia.org/wiki/Array_data_structure
+[dynamic]: https://en.wikipedia.org/wiki/Dynamic_array
+[linked]: https://en.wikipedia.org/wiki/Linked_list
+[visualgo-list]: https://visualgo.net/list
 
 
 ## Working with this GitHub repository
