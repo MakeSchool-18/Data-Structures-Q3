@@ -54,7 +54,7 @@
 
 **Topics:**
 - compare [abstract data types][adt] and [concrete data structures][ds]
-- abstract data types: [list], [stack], [queue], [deque] (see [interactive visualizations][visualgo-list])
+- abstract data types: [list], [stack], [queue], [deque] – see [interactive visualizations of lists][visualgo-list]
 - concrete data structures: [array], [dynamic/resizable array (vector)][dynamic], [linked list][linked]
 
 **Challenges:**
@@ -69,7 +69,7 @@
 [list]: https://en.wikipedia.org/wiki/List_(abstract_data_type)
 [stack]: https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
 [queue]: https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
-[deque]: (https://en.wikipedia.org/wiki/Double-ended_queue
+[deque]: https://en.wikipedia.org/wiki/Double-ended_queue
 [array]: https://en.wikipedia.org/wiki/Array_data_structure
 [dynamic]: https://en.wikipedia.org/wiki/Dynamic_array
 [linked]: https://en.wikipedia.org/wiki/Linked_list
