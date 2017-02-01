@@ -54,8 +54,9 @@
 
 **Topics:**
 - compare [abstract data types][adt] and [concrete data structures][ds]
-- abstract data types: [list], [stack], [queue], [deque] – see [interactive visualizations of lists][visualgo-list]
-- concrete data structures: [array], [dynamic/resizable array (vector)][dynamic], [linked list][linked]
+- abstract data types: [list], [stack], [queue], [deque]
+- concrete data structures: [array], [dynamic array (resizable array, vector)][dynamic], [linked list][linked]
+- watch and play with interactive visualizations of [lists][visualgo-list]
 
 **Challenges:**
 - implement constant-time length function on linked list using [starter code](linkedlist.py) and [unit tests](test_linkedlist.py)
@@ -74,6 +75,30 @@
 [dynamic]: https://en.wikipedia.org/wiki/Dynamic_array
 [linked]: https://en.wikipedia.org/wiki/Linked_list
 [visualgo-list]: https://visualgo.net/list
+
+
+### Class 5: Wednesday, February 1 – Set, Map, & Hash Table
+
+**Topics:**
+- abstract data types: [set], [multiset (bag)][multiset], [map (dictionary, associative array)][map]
+- concrete data structures: [hash table]
+- watch and play with interactive visualizations of [hash table][visualgo-hashtable]
+- bonus abstract data type: [circular buffer]
+
+**Challenges:**
+- implement set with hash table
+- implement automatic resizing of hash table
+- annotate functions with complexity analysis
+- stretch: implement [set operations] union, intersection, difference, subset
+- stretch: implement circular buffer with dynamic array and linked list
+
+[set]: https://en.wikipedia.org/wiki/Set_(abstract_data_type)
+[set operations]: https://en.wikipedia.org/wiki/Set_(abstract_data_type)#Operations
+[multiset]: https://en.wikipedia.org/wiki/Set_(abstract_data_type)#Multiset
+[map]: https://en.wikipedia.org/wiki/Associative_array
+[hash table]: https://en.wikipedia.org/wiki/Hash_table
+[circular buffer]: https://en.wikipedia.org/wiki/Circular_buffer
+[visualgo-hashtable]: https://visualgo.net/hashtable
 
 
 ## Working with this GitHub repository
