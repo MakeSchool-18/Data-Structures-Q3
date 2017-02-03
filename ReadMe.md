@@ -55,8 +55,9 @@
 **Topics:**
 - compare [abstract data types][adt] and [concrete data structures][ds]
 - abstract data types: [list], [stack], [queue], [deque]
-- concrete data structures: [array], [dynamic array (resizable array, vector)][dynamic], [linked list][linked]
-- watch and play with interactive visualizations of [lists][visualgo-list]
+- concrete data structures: [array], [dynamic array (resizable array, vector)][dynamic array], [linked list]
+- watch Make School's video lectures: [linked list][ms video linked list], [stack and queue][ms video stack queue]
+- play with interactive visualizations: [linked list, stack, queue, deque][visualgo list]
 
 **Challenges:**
 - implement constant-time length function on linked list using [starter code](linkedlist.py) and [unit tests](test_linkedlist.py)
@@ -72,9 +73,11 @@
 [queue]: https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 [deque]: https://en.wikipedia.org/wiki/Double-ended_queue
 [array]: https://en.wikipedia.org/wiki/Array_data_structure
-[dynamic]: https://en.wikipedia.org/wiki/Dynamic_array
-[linked]: https://en.wikipedia.org/wiki/Linked_list
-[visualgo-list]: https://visualgo.net/list
+[dynamic array]: https://en.wikipedia.org/wiki/Dynamic_array
+[linked list]: https://en.wikipedia.org/wiki/Linked_list
+[ms video linked list]: https://www.youtube.com/watch?v=3WWuf4H61Nk
+[ms video stack queue]: https://www.youtube.com/watch?v=AXWnk4gege4
+[visualgo list]: https://visualgo.net/list
 
 
 ### Class 5: Wednesday, February 1 – Set, Map, & Hash Table
@@ -82,7 +85,8 @@
 **Topics:**
 - abstract data types: [set], [multiset (bag)][multiset], [map (dictionary, associative array)][map]
 - concrete data structures: [hash table]
-- watch and play with interactive visualizations of [hash table][visualgo-hashtable]
+- watch Make School's video lecture: [hash table][ms video hash table]
+- play with interactive visualizations: [hash table][visualgo hash table]
 - bonus abstract data type: [circular buffer]
 
 **Challenges:**
@@ -98,7 +102,34 @@
 [map]: https://en.wikipedia.org/wiki/Associative_array
 [hash table]: https://en.wikipedia.org/wiki/Hash_table
 [circular buffer]: https://en.wikipedia.org/wiki/Circular_buffer
-[visualgo-hashtable]: https://visualgo.net/hashtable
+[ms video hash table]: https://www.youtube.com/watch?v=nLWXJ6IDKmQ
+[visualgo hash table]: https://visualgo.net/hashtable
+
+
+### Class 6: Friday, February 3 – Trees & Traversals
+
+**Topics:**
+- [tree], [binary search tree], [n-ary tree], operations
+- [tree traversal]: pre-order, post-order, in-order, level-order
+- watch Make School's video lectures: [tree][ms video tree], [tree traversal][ms video tree traversal]
+- play with interactive visualizations: [binary search tree][visualgo bst]
+
+**Challenges:**
+- implement binary search tree with node objects
+- implement search, insert, delete binary search tree operations
+- implement iterative and recursive binary search tree traversals
+- implement map (dictionary) with binary search tree
+- annotate functions with complexity analysis
+- stretch: implement binary search tree with singly linked list
+- stretch: implement n-ary search tree with dynamic array
+
+[tree]: https://en.wikipedia.org/wiki/Tree_%28data_structure%29
+[binary search tree]: https://en.wikipedia.org/wiki/Binary_search_tree
+[n-ary tree]: https://en.wikipedia.org/wiki/K-ary_tree
+[tree traversal]: https://en.wikipedia.org/wiki/Tree_traversal
+[ms video tree]: https://www.youtube.com/watch?v=Yr3y78d2KYI
+[ms video tree traversal]: https://www.youtube.com/watch?v=Qd8dKFaRu9I
+[visualgo bst]: https://visualgo.net/bst
 
 
 ## Working with this GitHub repository
