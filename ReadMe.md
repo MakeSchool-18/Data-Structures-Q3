@@ -132,6 +132,28 @@
 [visualgo bst]: https://visualgo.net/bst
 
 
+### Class 7: Monday, February 6 – Trie & Self-Balancing Trees
+
+**Topics:**
+- [trie (prefix/radix tree)][trie]
+- [self-balancing trees] with rotations: [AVL tree], [splay tree], [red-black tree]
+
+**Challenges:**
+- implement trie with insert and prefix search operations
+- annotate functions with complexity analysis
+- stretch: implement AVL tree or splay tree with insert and search operations
+
+**Project:**
+- [phone call routing] (revisit with trie)
+- annotate functions with complexity analysis
+
+[trie]: https://en.wikipedia.org/wiki/Trie
+[self-balancing trees]: https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
+[AVL tree]: https://en.wikipedia.org/wiki/AVL_tree
+[splay tree]: https://en.wikipedia.org/wiki/Splay_tree
+[red-black tree]: https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+[phone call routing]: https://www.dropbox.com/sh/tj6ppp6uwf12cce/AADje96PJhfsIXJEtP1OjwjFa
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
