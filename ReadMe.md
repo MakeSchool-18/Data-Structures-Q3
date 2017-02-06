@@ -144,7 +144,7 @@
 - stretch: implement AVL tree or splay tree with insert and search operations
 
 **Project:**
-- [phone call routing] (revisit with trie)
+- [phone call routing] – revisit with trie
 - annotate functions with complexity analysis
 
 [trie]: https://en.wikipedia.org/wiki/Trie
