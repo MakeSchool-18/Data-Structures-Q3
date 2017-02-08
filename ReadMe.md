@@ -147,6 +147,28 @@
 [red-black tree]: https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
 
 
+### Class 8: Wednesday, February 8 – More Self-Balancing Trees
+
+**Topics:**
+- [n-ary tree]
+- [self-balancing trees] with multiple keys: [2-3 tree], [B-tree]
+- [space-partitioning] trees: [quadtree], [octree], [k-d tree]
+
+**Challenges:**
+- implement 2-3 tree with insert and search operations
+- annotate functions with complexity analysis
+- stretch: implement n-ary search tree using dynamic array of siblings
+- stretch: implement B-tree or k-d tree with insert and search operations
+
+[n-ary tree]: https://en.wikipedia.org/wiki/K-ary_tree
+[2-3 tree]: https://en.wikipedia.org/wiki/2%E2%80%933_tree
+[B-tree]: https://en.wikipedia.org/wiki/B-tree
+[space-partitioning]: https://en.wikipedia.org/wiki/Space_partitioning
+[quadtree]: https://en.wikipedia.org/wiki/Quadtree
+[octree]: https://en.wikipedia.org/wiki/Octree
+[k-d tree]: https://en.wikipedia.org/wiki/K-d_tree
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
