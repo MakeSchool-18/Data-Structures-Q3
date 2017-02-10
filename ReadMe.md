@@ -169,6 +169,31 @@
 [k-d tree]: https://en.wikipedia.org/wiki/K-d_tree
 
 
+### Class 9: Friday, February 10 – Iterative Sorting Algorithms
+
+**Topics:**
+- iterative comparison sorting: [bubble], [selection], [insertion]
+- integer sorting: [counting], [bucket], [radix]
+- watch [animations] and [this video] of sorting algorithms to see patterns
+
+**Challenges:**
+- implement bubble, selection, and insertion sorts
+- implement counting and bucket sorts
+- annotate functions with complexity analysis
+- stretch: implement radix, [cocktail shaker], or [Shell] sort
+
+[bubble]: https://en.wikipedia.org/wiki/Bubble_sort
+[selection]: https://en.wikipedia.org/wiki/Selection_sort
+[insertion]: https://en.wikipedia.org/wiki/Insertion_sort
+[counting]: https://en.wikipedia.org/wiki/Counting_sort
+[bucket]: https://en.wikipedia.org/wiki/Bucket_sort
+[radix]: https://en.wikipedia.org/wiki/Radix_sort
+[cocktail shaker]: https://en.wikipedia.org/wiki/Cocktail_shaker_sort
+[Shell]: https://en.wikipedia.org/wiki/Shellsort
+[animations]: https://www.toptal.com/developers/sorting-algorithms/
+[this video]: https://www.youtube.com/watch?v=jHPexHsDxwQ
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
