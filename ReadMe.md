@@ -119,10 +119,16 @@
 - annotate functions with complexity analysis
 - stretch: implement binary search tree with singly linked list
 
+**Project:**
+- [trees and mazes] tutorial on Make School's [Online Academy]
+
 [tree]: https://en.wikipedia.org/wiki/Tree_%28data_structure%29
 [binary search tree]: https://en.wikipedia.org/wiki/Binary_search_tree
 [ms video tree]: https://www.youtube.com/watch?v=Yr3y78d2KYI
 [visualgo bst]: https://visualgo.net/bst
+
+[trees and mazes]: http://make.sc/oa-trees-and-mazes
+[Online Academy]: https://www.makeschool.com/academy
 
 
 ### Class 7: Monday, February 6 – Tree Traversals & Self-Balancing Trees
@@ -184,6 +190,9 @@
 - stretch: implement insertion sort using binary search
 - stretch: implement radix, [cocktail shaker], or [Shell] sort
 
+**Project:**
+- [sorting algorithms] with real-world data on Make School's [Online Academy]
+
 [comparison sorting]: https://en.wikipedia.org/wiki/Comparison_sort
 [bubble]: https://en.wikipedia.org/wiki/Bubble_sort
 [selection]: https://en.wikipedia.org/wiki/Selection_sort
@@ -199,6 +208,8 @@
 [animations]: https://www.toptal.com/developers/sorting-algorithms/
 [interactive animations]: https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
 [this video]: https://www.youtube.com/watch?v=jHPexHsDxwQ
+
+[sorting algorithms]: http://make.sc/oa-sorting-algorithms
 
 
 ## Working with this GitHub repository
