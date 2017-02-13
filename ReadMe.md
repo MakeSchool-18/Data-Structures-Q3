@@ -188,7 +188,7 @@
 - implement counting and bucket sorts
 - annotate functions with complexity analysis
 - stretch: implement insertion sort using binary search
-- stretch: implement radix, [cocktail shaker], or [Shell] sort
+- stretch: implement [cocktail shaker] or [Shell] sort
 
 **Project:**
 - [sorting algorithms] with real-world data on Make School's [Online Academy]
@@ -210,6 +210,31 @@
 [this video]: https://www.youtube.com/watch?v=jHPexHsDxwQ
 
 [sorting algorithms]: http://make.sc/oa-sorting-algorithms
+
+
+### Class 10: Monday, February 13 – Divide-and-Conquer Recursion
+
+**Topics:**
+- [divide-and-conquer]&nbsp;[recursion]: divide, conquer, combine
+- revisit [binary search] to see how it divides and conquers
+- [merge algorithm] and [merge sort]
+
+**Challenges:**
+- implement [merge sort] with a separate [merge algorithm]
+- implement [tree sort] with an appropriate [search tree]
+- annotate functions with complexity analysis
+- stretch: implement [radix sort][radix] for integers and/or strings
+
+**Project:**
+- continue [sorting algorithms] with real-world data
+
+[divide-and-conquer]: https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm
+[recursion]: https://en.wikipedia.org/wiki/Recursion_(computer_science)
+[binary search]: https://en.wikipedia.org/wiki/Binary_search_algorithm
+[merge algorithm]: https://en.wikipedia.org/wiki/Merge_algorithm
+[merge sort]: https://en.wikipedia.org/wiki/Merge_sort
+[tree sort]: https://en.wikipedia.org/wiki/Tree_sort
+[search tree]: https://en.wikipedia.org/wiki/Search_tree
 
 
 ## Working with this GitHub repository
