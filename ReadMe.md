@@ -237,6 +237,25 @@
 [search tree]: https://en.wikipedia.org/wiki/Search_tree
 
 
+### Class 11: Wednesday, February 15 – Recursive Sorting Algorithms
+
+**Topics:**
+- [recursive algorithm analysis] with trees, [recurrence relations], [master theorem]
+- partition algorithm and [quick sort]
+- [stable sorting] and [adaptive sorting]
+
+**Challenges:**
+- implement stable quick sort with a separate [partition algorithm]
+- annotate functions with complexity analysis
+
+[recursive algorithm analysis]: AlgorithmAnalysisRecursive.pdf
+[recurrence relations]: https://en.wikipedia.org/wiki/Recurrence_relation
+[master theorem]: https://en.wikipedia.org/wiki/Master_theorem
+[quick sort]: https://en.wikipedia.org/wiki/Quicksort
+[stable sorting]: https://en.wikipedia.org/wiki/Sorting_algorithm#Stability
+[adaptive sorting]: https://en.wikipedia.org/wiki/Adaptive_sort
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
