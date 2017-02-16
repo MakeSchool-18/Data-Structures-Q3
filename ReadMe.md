@@ -56,6 +56,8 @@
 - compare [abstract data types][adt] and [concrete data structures][ds]
 - abstract data types: [list], [stack], [queue], [deque]
 - concrete data structures: [array], [dynamic array (resizable array, vector)][dynamic array], [linked list]
+
+**Resources:**
 - watch Make School's video lectures: [linked list][ms video linked list], [stack and queue][ms video stack queue]
 - play with interactive visualizations: [linked list, stack, queue, deque][visualgo list]
 
@@ -80,14 +82,16 @@
 [visualgo list]: https://visualgo.net/list
 
 
-### Class 5: Wednesday, February 1 – Set, Map, & Hash Table
+### Class 5: Wednesday, February 1 – Set, Map & Hash Table
 
 **Topics:**
 - abstract data types: [set], [multiset (bag)][multiset], [map (dictionary, associative array)][map]
 - concrete data structures: [hash table]
+- bonus abstract data type: [circular buffer]
+
+**Resources:**
 - watch Make School's video lecture: [hash table][ms video hash table]
 - play with interactive visualizations: [hash table][visualgo hash table]
-- bonus abstract data type: [circular buffer]
 
 **Challenges:**
 - implement set with hash table
@@ -110,6 +114,8 @@
 
 **Topics:**
 - [tree], [binary search tree], operations
+
+**Resources:**
 - watch Make School's video lecture: [tree][ms video tree]
 - play with interactive visualizations: [binary search tree][visualgo bst]
 
@@ -135,8 +141,10 @@
 
 **Topics:**
 - [tree traversals]: pre-order, post-order, in-order, level-order
-- watch Make School's video lecture: [tree traversals][ms video tree traversals]
 - [self-balancing trees] with [rotations]: [AVL tree], [splay tree], [red-black tree]
+
+**Resources:**
+- watch Make School's video lecture: [tree traversals][ms video tree traversals]
 
 **Challenges:**
 - implement iterative and recursive binary search tree traversals
@@ -180,6 +188,8 @@
 **Topics:**
 - iterative [comparison sorting]: [bubble], [selection], [insertion]
 - [integer sorting]: [counting], [bucket], [radix]
+
+**Resources:**
 - watch [animations] and [this video] of sorting algorithms to see patterns
 - play with step-by-step [interactive animations] of sorting algorithms
 
@@ -245,7 +255,7 @@
 - [stable sorting] and [adaptive sorting]
 
 **Challenges:**
-- implement stable quick sort with a separate [partition algorithm]
+- implement stable quick sort with a separate partition algorithm
 - annotate functions with complexity analysis
 
 [recursive algorithm analysis]: AlgorithmAnalysisRecursive.pdf
