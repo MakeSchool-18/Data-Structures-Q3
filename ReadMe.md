@@ -254,6 +254,9 @@
 - partition algorithm and [quick sort]
 - [stable sorting] and [adaptive sorting]
 
+**Resources:**
+- watch these cute robot video animations: [quick sort][video quick sort], [merge sort vs. quick sort][video merge quick sort]
+
 **Challenges:**
 - implement stable quick sort with a separate partition algorithm
 - annotate functions with complexity analysis
@@ -264,6 +267,8 @@
 [quick sort]: https://en.wikipedia.org/wiki/Quicksort
 [stable sorting]: https://en.wikipedia.org/wiki/Sorting_algorithm#Stability
 [adaptive sorting]: https://en.wikipedia.org/wiki/Adaptive_sort
+[video quick sort]: https://www.youtube.com/watch?v=aXXWXz5rF64
+[video merge quick sort]: https://www.youtube.com/watch?v=es2T6KY45cA
 
 
 ## Working with this GitHub repository
