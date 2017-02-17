@@ -285,7 +285,7 @@
 - read about [sorting algorithms implemented with priority queue][priority queue sorting]
 
 **Challenges:**
-- implement binary min heap using list (dynamic array)
+- implement binary min heap with dynamic array using [starter code](heap.py) and [unit tests](test_heap.py)
 - implement heap sort with binary heap
 - implement priority queue with binary heap
 - implement priority queue with binary search tree
