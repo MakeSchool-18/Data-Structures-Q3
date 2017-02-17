@@ -271,6 +271,39 @@
 [video merge quick sort]: https://www.youtube.com/watch?v=es2T6KY45cA
 
 
+### Class 12: Friday, February 17 – Priority Queue & Heap
+
+**Topics:**
+- [priority queue] abstract data type
+- [heap] data structure, [binary heap] representations
+- [heap sort], compare to [insertion] and [selection] sort
+
+**Resources:**
+- watch Make School's video lecture: [heap][ms video heap]
+- watch this cute robot video animation: [heap and heap sort][video heap sort]
+- play with interactive visualizations: [heap][visualgo heap]
+- read about [sorting algorithms implemented with priority queue][priority queue sorting]
+
+**Challenges:**
+- implement binary min heap using list (dynamic array)
+- implement heap sort with binary heap
+- implement priority queue with binary heap
+- implement priority queue with binary search tree
+- annotate functions with complexity analysis
+- stretch: implement stack with priority queue
+- stretch: generalize binary heap with min or max initialization option
+
+[priority queue]: https://en.wikipedia.org/wiki/Priority_queue
+[heap]: https://en.wikipedia.org/wiki/Heap_(data_structure)
+[binary heap]: https://en.wikipedia.org/wiki/Binary_heap
+[heap sort]: https://en.wikipedia.org/wiki/Heapsort
+
+[ms video heap]: https://www.youtube.com/watch?v=eBGgEEXnbuk
+[video heap sort]: https://www.youtube.com/watch?v=H5kAcmGOn4Q
+[visualgo heap]: https://visualgo.net/heap
+[priority queue sorting]: https://en.wikipedia.org/wiki/Priority_queue#Equivalence_of_priority_queues_and_sorting_algorithms
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
