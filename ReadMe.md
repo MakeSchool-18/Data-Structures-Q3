@@ -279,7 +279,7 @@
 - [heap sort], compare to [insertion] and [selection] sort
 
 **Resources:**
-- watch Make School's video lecture: [heap][ms video heap]
+- watch Make School's [video lecture][ms video heap] and review [slides on heaps][ms slides heap]
 - watch this cute robot video animation: [heap and heap sort][video heap sort]
 - play with interactive visualizations: [heap][visualgo heap]
 - read about [sorting algorithms implemented with priority queue][priority queue sorting]
@@ -298,6 +298,7 @@
 [binary heap]: https://en.wikipedia.org/wiki/Binary_heap
 [heap sort]: https://en.wikipedia.org/wiki/Heapsort
 
+[ms slides heap]: Heaps.pdf
 [ms video heap]: https://www.youtube.com/watch?v=eBGgEEXnbuk
 [video heap sort]: https://www.youtube.com/watch?v=H5kAcmGOn4Q
 [visualgo heap]: https://visualgo.net/heap
