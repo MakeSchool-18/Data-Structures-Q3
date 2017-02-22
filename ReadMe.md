@@ -305,6 +305,41 @@
 [priority queue sorting]: https://en.wikipedia.org/wiki/Priority_queue#Equivalence_of_priority_queues_and_sorting_algorithms
 
 
+### Class 13: Wednesday, February 22 – Graphs
+
+**Topics:**
+- [graph abstract data type][graph adt]
+- [graph types]: [directed]/undirected, weighted/unweighted, simple/[multigraph]
+- [graph applications]: computer networking, social networking, airplane flight routing, map routing, search engines ([PageRank]), dependency planning, etc.
+- [graph representations]: object references, edge list, [incidence matrix], [adjacency matrix], [adjacency list], adjacency map
+- [graph traversals]: [depth-first search], [breadth-first search]
+
+**Resources:**
+- play with interactive visualizations: [graph data structure][visualgo graph], [graph traversals][visualgo graph traversals]
+
+**Project:**
+- collect data set of social network, airplane routes, or your choice
+- implement graph with appropriate representation for that data set
+- implement graph traversals: depth-first search, breadth-first search
+
+[graph adt]: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
+[graph types]: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Types_of_graphs
+[directed]: https://en.wikipedia.org/wiki/Directed_graph
+[multigraph]: https://en.wikipedia.org/wiki/Multigraph
+[graph applications]: https://en.wikipedia.org/wiki/Graph_theory#Applications
+[PageRank]: https://en.wikipedia.org/wiki/PageRank
+[graph representations]: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)#Representations
+[incidence matrix]: https://en.wikipedia.org/wiki/Incidence_matrix
+[adjacency matrix]: https://en.wikipedia.org/wiki/Adjacency_matrix
+[adjacency list]: https://en.wikipedia.org/wiki/Adjacency_list
+[graph traversals]: https://en.wikipedia.org/wiki/Graph_traversal
+[depth-first search]: https://en.wikipedia.org/wiki/Depth-first_search
+[breadth-first search]: https://en.wikipedia.org/wiki/Breadth-first_search
+
+[visualgo graph]: https://visualgo.net/graphds
+[visualgo graph traversals]: https://visualgo.net/dfsbfs
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
