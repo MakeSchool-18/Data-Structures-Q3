@@ -312,15 +312,13 @@
 - [graph types]: [directed]/undirected, weighted/unweighted, simple/[multigraph]
 - [graph applications]: computer networking, social networking, airplane flight routing, map routing, search engines ([PageRank]), dependency planning, etc.
 - [graph representations]: object references, edge list, [incidence matrix], [adjacency matrix], [adjacency list], adjacency map
-- [graph traversals]: [depth-first search], [breadth-first search]
 
 **Resources:**
-- play with interactive visualizations: [graph data structure][visualgo graph], [graph traversals][visualgo graph traversals]
+- play with interactive visualizations: [graph types and representations][visualgo graph]
 
 **Project:**
 - collect data set of social network, airplane routes, or your choice
 - implement graph with appropriate representation for that data set
-- implement graph traversals: depth-first search, breadth-first search
 
 [graph adt]: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
 [graph types]: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Types_of_graphs
@@ -337,7 +335,34 @@
 [breadth-first search]: https://en.wikipedia.org/wiki/Breadth-first_search
 
 [visualgo graph]: https://visualgo.net/graphds
-[visualgo graph traversals]: https://visualgo.net/dfsbfs
+
+
+### Class 14: Friday, February 24 – Graph Traversals & Spanning Trees
+
+**Topics:**
+- [graph traversals]: [depth-first search], [breadth-first search]
+- graph [connectivity], [connected components], [strongly connected components]
+- graph [spanning trees] and [minimum spanning trees]: [Prim's algorithm], [Kruskal's algorithm]
+
+**Resources:**
+- play with interactive visualizations: [graph traversals][visualgo traversals], [minimum spanning tree][visualgo mst]
+
+**Project:**
+- implement graph traversals: depth-first search, breadth-first search
+- implement an algorithm to find a minimum spanning tree on your graph data set
+- annotate functions with complexity analysis
+
+[connectivity]: https://en.wikipedia.org/wiki/Connectivity_(graph_theory)
+[connected components]: https://en.wikipedia.org/wiki/Connected_component_(graph_theory)
+[strongly connected components]: https://en.wikipedia.org/wiki/Strongly_connected_component
+[disjoint-set]: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+[spanning trees]: https://en.wikipedia.org/wiki/Spanning_tree
+[minimum spanning trees]: https://en.wikipedia.org/wiki/Minimum_spanning_tree
+[Prim's algorithm]: https://en.wikipedia.org/wiki/Prim%27s_algorithm
+[Kruskal's algorithm]: https://en.wikipedia.org/wiki/Kruskal%27s_algorithm
+
+[visualgo traversals]: https://visualgo.net/dfsbfs
+[visualgo mst]: https://visualgo.net/mst
 
 
 ## Working with this GitHub repository
