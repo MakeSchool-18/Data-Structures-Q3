@@ -342,14 +342,21 @@
 **Topics:**
 - [graph traversals]: [depth-first search], [breadth-first search]
 - graph [connectivity], [connected components], [strongly connected components]
-- graph [spanning trees] and [minimum spanning trees]: [Prim's algorithm], [Kruskal's algorithm]
+- graph [spanning trees], [minimum spanning trees]: [Prim's algorithm], [Kruskal's algorithm]
+- bonus data structure: [trie (prefix/radix tree)][trie]
 
 **Resources:**
 - play with interactive visualizations: [graph traversals][visualgo traversals], [minimum spanning tree][visualgo mst]
 
-**Project:**
+**Graph Project:**
 - implement graph traversals: depth-first search, breadth-first search
+- implement an algorithm to find connected components on your graph data set
 - implement an algorithm to find a minimum spanning tree on your graph data set
+- annotate functions with complexity analysis
+
+**Trie Project:**
+- implement trie with insert and prefix search operations
+- revisit [phone call routing] scenarios 3, 4, and 5 with trie
 - annotate functions with complexity analysis
 
 [connectivity]: https://en.wikipedia.org/wiki/Connectivity_(graph_theory)
@@ -363,6 +370,9 @@
 
 [visualgo traversals]: https://visualgo.net/dfsbfs
 [visualgo mst]: https://visualgo.net/mst
+
+[trie]: https://en.wikipedia.org/wiki/Trie
+[phone call routing]: http://make.sc/db-phone-call-routing
 
 
 ## Working with this GitHub repository
