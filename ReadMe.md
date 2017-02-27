@@ -342,7 +342,9 @@
 **Topics:**
 - [graph traversals]: [depth-first search], [breadth-first search]
 - graph [connectivity], [connected components], [strongly connected components]
-- graph [spanning trees], [minimum spanning trees]: [Prim's algorithm], [Kruskal's algorithm]
+- graph [spanning trees], [minimum spanning trees]:
+    - [Prim's algorithm]
+    - [Kruskal's algorithm]
 - bonus data structure: [trie (prefix/radix tree)][trie]
 
 **Resources:**
@@ -373,6 +375,45 @@
 
 [trie]: https://en.wikipedia.org/wiki/Trie
 [phone call routing]: http://make.sc/db-phone-call-routing
+
+
+### Class 15: Monday, February 27 – Graph Algorithms
+
+**Topics:**
+- [shortest path problem]:
+    - [A* search algorithm]
+    - [Dijkstra's algorithm]
+    - [Bellman–Ford algorithm]
+    - [Floyd–Warshall algorithm]
+- [maximum flow problem]:
+    - [Ford–Fulkerson algorithm]
+    - [Edmonds–Karp algorithm]
+    - [max-flow min-cut theorem]
+- [matching problem], [assignment problem]
+
+**Resources:**
+- play with interactive visualizations: [shortest path][visualgo shortest path], [max flow][visualgo max flow], [matching][visualgo matching]
+
+**Graph Project:**
+- implement an algorithm to find a shortest path or maximum flow on your graph data set
+- annotate functions with complexity analysis
+
+[shortest path problem]: https://en.wikipedia.org/wiki/Shortest_path_problem
+[A* search algorithm]: https://en.wikipedia.org/wiki/A*_search_algorithm
+[Dijkstra's algorithm]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+[Bellman–Ford algorithm]: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
+[Floyd–Warshall algorithm]: https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm
+
+[maximum flow problem]: https://en.wikipedia.org/wiki/Maximum_flow_problem
+[Ford–Fulkerson algorithm]: https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm
+[Edmonds–Karp algorithm]: https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm
+[max-flow min-cut theorem]: https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem
+[matching problem]: https://en.wikipedia.org/wiki/Matching_(graph_theory)
+[assignment problem]: https://en.wikipedia.org/wiki/Assignment_problem
+
+[visualgo shortest path]: https://visualgo.net/sssp
+[visualgo max flow]: https://visualgo.net/maxflow
+[visualgo matching]: https://visualgo.net/matching
 
 
 ## Working with this GitHub repository
