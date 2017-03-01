@@ -416,6 +416,30 @@
 [visualgo matching]: https://visualgo.net/matching
 
 
+### Class 16: Wednesday, March 1 – Dynamic Programming
+
+**Topics:**
+- [combinatorial optimization], [greedy algorithms]
+- revisit [recursion] with [dynamic programming]
+
+**Challenges:**
+- implement recursive function to solve rod-cutting problem
+- implement dynamic programming function to solve rod-cutting problem
+- annotate functions with complexity analysis
+
+**Resources:**
+- play with interactive visualizations: [recursion and dynamic programming][visualgo recursion]
+- read about [dynamic programming][wikibooks dp] and [greedy algorithms][wikibooks greedy] on WikiBooks
+
+[combinatorial optimization]: https://en.wikipedia.org/wiki/Combinatorial_optimization
+[greedy algorithms]: https://en.wikipedia.org/wiki/Greedy_algorithm
+[dynamic programming]: https://en.wikipedia.org/wiki/Dynamic_programming
+
+[wikibooks greedy]: https://en.wikibooks.org/wiki/Algorithms/Greedy_Algorithms
+[wikibooks dp]: https://en.wikibooks.org/wiki/Algorithms/Dynamic_Programming
+[visualgo recursion]: https://visualgo.net/recursion
+
+
 ## Working with this GitHub repository
 
 This repository (located at `https://github.com/MakeSchool-18/Data-Structures`) is the course's _origin_ repository which will contain course materials including links, slides, and challenges.
