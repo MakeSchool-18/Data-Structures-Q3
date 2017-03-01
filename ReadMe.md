@@ -416,28 +416,60 @@
 [visualgo matching]: https://visualgo.net/matching
 
 
-### Class 16: Wednesday, March 1 – Dynamic Programming
+### Class 16: Wednesday, March 1 – Optimization & Memoization
 
 **Topics:**
 - [combinatorial optimization], [greedy algorithms]
-- revisit [recursion] with [dynamic programming]
+- revisit [recursion] with [memoization]
 
 **Challenges:**
-- implement recursive function to solve rod-cutting problem
-- implement dynamic programming function to solve rod-cutting problem
+- implement the following with plain recursion and with memoization:
+    - [factorial] function
+    - [fibonacci] function
+    - [change-making problem]
+    - stretch: [permutation] function
+    - stretch: [combination] function
 - annotate functions with complexity analysis
+- benchmark performance of plain recursion and memoized recursion
+- stretch: implement `@memoized` [decorator] to memoize any recursive function
 
 **Resources:**
-- play with interactive visualizations: [recursion and dynamic programming][visualgo recursion]
-- read about [dynamic programming][wikibooks dp] and [greedy algorithms][wikibooks greedy] on WikiBooks
+- play with interactive visualizations: [recursion and memoization][visualgo recursion]
+- read about [greedy algorithms][wikibooks greedy] on WikiBooks
 
 [combinatorial optimization]: https://en.wikipedia.org/wiki/Combinatorial_optimization
 [greedy algorithms]: https://en.wikipedia.org/wiki/Greedy_algorithm
+[memoization]: https://en.wikipedia.org/wiki/Memoization
 [dynamic programming]: https://en.wikipedia.org/wiki/Dynamic_programming
+[factorial]: https://en.wikipedia.org/wiki/Factorial
+[fibonacci]: https://en.wikipedia.org/wiki/Fibonacci_number
+[permutation]: https://en.wikipedia.org/wiki/Permutation
+[combination]: https://en.wikipedia.org/wiki/Combination
+[change-making problem]: https://en.wikipedia.org/wiki/Change-making_problem
+[decorator]: https://wiki.python.org/moin/PythonDecorators
 
 [wikibooks greedy]: https://en.wikibooks.org/wiki/Algorithms/Greedy_Algorithms
 [wikibooks dp]: https://en.wikibooks.org/wiki/Algorithms/Dynamic_Programming
 [visualgo recursion]: https://visualgo.net/recursion
+
+
+### Class 17: Friday, March 3 – Dynamic Programming
+
+**Topics:**
+- revisit [recursion] with [dynamic programming]
+
+**Challenges:**
+- implement the following with dynamic programming:
+    - [factorial] function
+    - [fibonacci] function
+    - [change-making problem]
+    - stretch: [permutation] function
+    - stretch: [combination] function
+- annotate functions with complexity analysis
+
+**Resources:**
+- play with interactive visualizations: [recursion and dynamic programming][visualgo recursion]
+- read about [dynamic programming][wikibooks dp] on WikiBooks
 
 
 ## Working with this GitHub repository
